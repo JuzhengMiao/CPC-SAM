@@ -27,7 +27,7 @@ Please see requirements.txt
    ```
    python test_mean.py
    ```
-   Before running the code, related paths should be set appropriately. (1) Line 77-80, please provide the path of the .csv file, which records the prediction results. (2) Provide the same paths for the same parameter set in the training code. (3) Line 104, please provide the path to save the output results. (4) Line 114, please provide the path of the model to be tested. (5) Line 118, please provide the name for the .csv file.
+   Before running the code, related paths should be set appropriately. (1) Line 76-79, please provide the path of the .csv file, which records the prediction results. (2) Provide the same paths for the same parameters set in the training code. (3) Line 104, please provide the path to save the output results. (4) Line 114, please provide the path of the model to be tested. (5) Line 118, please provide the name for the .csv file.
 
 ### Acknowledgement
 This code is based on the framework of [SSL4MIS](https://github.com/HiLab-git/SSL4MIS/) and [SAMed](https://github.com/hitachinsk/SAMed). We thank the authors for their codebase.
