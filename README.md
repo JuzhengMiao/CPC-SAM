@@ -35,6 +35,13 @@ This code is based on the framework of [SSL4MIS](https://github.com/HiLab-git/SS
 ## Citation
 If you find the code useful for your research, please consider starring ⭐ and cite our paper:
 ```sh
-
+@inproceedings{miao2024cross,
+  title={Cross prompting consistency with segment anything model for semi-supervised medical image segmentation},
+  author={Miao, Juzheng and Chen, Cheng and Zhang, Keli and Chuai, Jie and Li, Quanzheng and Heng, Pheng-Ann},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={167--177},
+  year={2024},
+  organization={Springer}
+}
 ```
 
